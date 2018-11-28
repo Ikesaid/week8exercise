@@ -1,0 +1,36 @@
+section{
+	background-color: #333030;
+}
+
+.aye {
+  height: 125px;
+  width: 100%;
+}
+.bee {
+  background-color: #8b8687;
+}
+#pic {
+  width: 250px;
+}
+
+#bar1, #bar2{
+
+	text-align: center;
+}
+
+.press{
+
+	margin-left: 500px;
+	padding: 10px 35px;
+	position: relative;
+	color: #e3dede;
+	border-color: #a3a1a1;
+	background-color: #8b8687;  	
+}
+
+#pic{
+
+	width: 50%;
+	margin-left: 275px;
+	padding: 10px;
+}
